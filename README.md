@@ -1,1 +1,2 @@
-# Change_roman_number_to_digit
+#run
+'''g++ main.cpp -o main.out && ./main.out```
